@@ -4,7 +4,11 @@
 python3
 PIL库（下载方式：在终端输入：`pip install pillow -i https://pypi.tuna.tsinghua.edu.cn/simple`）
 
-# 将你的微信头像图片名改成tx.png,或者在代码中将`wx_img = Image.open(os.path.join(path,'tx.png')) # 头像路径`中的`tx.png`换成你的头像名称
+## 图片更换
+
+将你的微信头像图片名改成tx.png,或者在代码中将`wx_img = Image.open(os.path.join(path,'tx.png')) # 头像路径`中的`tx.png`换成你的头像名称
+
+## 运行结果
 
 在终端中打开目标文件夹，输入下列代码
 
