@@ -13,6 +13,6 @@ PIL库（下载方式：在终端输入：`pip install pillow -i https://pypi.tu
 在终端中打开目标文件夹，输入下列代码
 
 ```python
-python add_bdd_xrrr.py
+python add_bdd_xrr.py
 ```
 即可得到处理后的图片：`bdd_xrr.png`
