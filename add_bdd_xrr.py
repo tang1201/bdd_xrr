@@ -2,7 +2,7 @@ from PIL import Image # 图像处理相关库
 import os # 系统库
 
 path = os.getcwd() # 获取当前所在文件夹的路径
-wx_img = Image.open(os.path.join(path,'tx.jpg')) # 头像路径
+wx_img = Image.open(os.path.join(path,'tx.png')) # 头像路径
 bdd_img = Image.open(os.path.join(path,'bdd.png')) # 冰墩墩路径
 xrr_img = Image.open(os.path.join(path,'xrr.png')) # 雪容融路径
 
